@@ -1,4 +1,13 @@
-# PhD Mathematics
+## Contact
+Institute of Mathematics, Physics and Mechanics
+Jadranska ulica 19, SI-1000 Ljubljana
+
+### Email: 
+- rajkamal.nailwal@imfm.si
+- raj1994nailwal@gmail.com
+
+## Research interests
+Moment problems, subnormal operators, function theory
 
 ## Work Experience
 - Postdoc, IMFM (November 2024- )
