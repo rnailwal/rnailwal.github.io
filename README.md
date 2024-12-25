@@ -14,7 +14,10 @@
 
 
 
-
+## Visits
+- Bits Pilani, Pilani campus, (October-2023)
+- IIT Hyderabad, (September-2023)
+- IIT Madras, (October-2022)
 
 
 ## Talks
