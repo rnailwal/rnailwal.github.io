@@ -14,11 +14,6 @@
 
 
 
-## Visits
-- Bits Pilani, Pilani campus, (October-2023)
-- IIT Hyderabad, (September-2023)
-- IIT Madras, (October-2022)
-
 
 ## Talks
 - Hausdorff moment nets in two variables and toral m-isometric pairs, Faculty of Mathematics and Physics, Ljubljana, Slovenia, December 2024  
@@ -35,3 +30,9 @@
 
 ## Preprints
 1. with M. Bhattacharjee, A characterization of joint completely alternating nets,  submitted (2024).
+
+
+## Visits
+- Bits Pilani, Pilani campus, (October-2023)
+- IIT Hyderabad, (September-2023)
+- IIT Madras, (October-2022)
