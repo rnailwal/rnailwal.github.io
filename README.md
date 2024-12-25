@@ -3,9 +3,9 @@
 
 
 ## Education
-- Ph.D., Mathematics | IIT Kanpur (_November 2023_)								       		
-- M.Sc., Mathematics	| IIT Indore (_2017_)	 			        		
-- B.Sc. (H) Mathematics | Delhi University (_2014_)
+- Ph.D., Mathematics, IIT Kanpur (_November 2023_)								       		
+- M.Sc., Mathematics, IIT Indore (_2017_)	 			        		
+- B.Sc.(H) Mathematics, Delhi University (_2014_)
 
 
 
@@ -16,9 +16,7 @@
 ## Talks & Lectures
 -Hausdorff moment nets in two variables and toral m-isometric pairs, Faculty of Mathematics and Physics, Ljubljana, Slovenia, December 2024  
 -On completely monotone and completely alternating sequences induced by rational functions, In-House Symposium, IIT Madras, July 2024
-
 -Moment problem in one variable, Research scholar seminar, Bits Pilani Goa Campus, April 2024
-
 -A two-dimensional moment problem, Research scholar seminar, IIT Hyderabad, September 2023 
 
 
