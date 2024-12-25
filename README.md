@@ -1,9 +1,9 @@
 # PhD Mathematics
 
 ## Work Experience
-- Postdoc, IMFM (November 2024- ) Mentor: Prof. Aljaž Zalar
-- Postdoc, IIT Madras (April 2024- November 2024)  Mentor: Prof. Surjit Kumar
-- Research Associate, Bits Pilani Goa Campus (Dec 2023- April 2024) Mentor: Prof. Monojit Bhattacharjee
+- Postdoc, IMFM (November 2024- )
+- Postdoc, IIT Madras (April 2024- November 2024)
+- Research Associate, Bits Pilani Goa Campus (Dec 2023- April 2024)
 
 
 ## Education
