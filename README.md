@@ -15,13 +15,6 @@ Moment problems, subnormal operators, function theory
 - Research Associate, Bits Pilani Goa Campus (Dec 2023- April 2024)
 
 
-## Education
-- Ph.D. Mathematics, IIT Kanpur (November 2023)								       		
-- M.Sc. Mathematics, IIT Indore (2017)	 			        		
-- B.Sc.(H) Mathematics, Delhi University (2014)
-
-
-
 
 
 ## Talks
@@ -39,6 +32,12 @@ Moment problems, subnormal operators, function theory
 
 ## Preprints
 1. with M. Bhattacharjee, A characterization of joint completely alternating nets,  submitted (2024).
+
+
+## Education
+- Ph.D. Mathematics, IIT Kanpur (November 2023)								       		
+- M.Sc. Mathematics, IIT Indore (2017)	 			        		
+- B.Sc.(H) Mathematics, Delhi University (2014)
 
 
 ## Visits
