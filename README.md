@@ -7,9 +7,9 @@
 
 
 ## Education
-- Ph.D. Mathematics, IIT Kanpur (_November 2023_)								       		
-- M.Sc. Mathematics, IIT Indore (_2017_)	 			        		
-- B.Sc.(H) Mathematics, Delhi University (_2014_)
+- Ph.D. Mathematics, IIT Kanpur (November 2023)								       		
+- M.Sc. Mathematics, IIT Indore (2017)	 			        		
+- B.Sc.(H) Mathematics, Delhi University (2014)
 
 
 
