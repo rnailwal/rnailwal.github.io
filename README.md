@@ -34,7 +34,7 @@ Moment problems, subnormal operators, function theory
 
 
 ## Education
-- Ph.D. Mathematics, IIT Kanpur (November 2023)								       		
+- Ph.D. Mathematics, IIT Kanpur (2023)								       		
 - M.Sc. Mathematics, IIT Indore (2017)	 			        		
 - B.Sc.(H) Mathematics, Delhi University (2014)
 
