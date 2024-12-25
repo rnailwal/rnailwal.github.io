@@ -1,10 +1,9 @@
 ### Contact
-Office number: 322,
+Office: 322,
 Institute of Mathematics, Physics and Mechanics
 Jadranska ulica 19, SI-1000 Ljubljana
 
-#### Email: 
-- rajkamal.nailwal@imfm.si
+#### Email: - rajkamal.nailwal@imfm.si
 
 ## Research Interests
 Moment problems, subnormal operators, function theory
