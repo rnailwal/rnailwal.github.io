@@ -1,2 +1,3 @@
-# rnailwal.github.io
-### Education PhD Mathematics
+### Education 
+### Publications
+### Preprints
