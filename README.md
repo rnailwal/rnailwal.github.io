@@ -6,7 +6,7 @@ Jadranska ulica 19, SI-1000 Ljubljana
 ##### Email:  rajkamal.nailwal@imfm.si
 
 ## Research Interests
-Moment problems, subnormal operators, function theory
+Moment problems, Operator theory, Function theory
 
 ## Work Experience
 - Postdoc, IMFM (November 2024- )
