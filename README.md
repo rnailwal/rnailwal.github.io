@@ -25,7 +25,7 @@ Moment problems, subnormal operators, function theory
 
 ## Publications
  1. Joint Complete monotonicity of rational functions in two variables and toral m-isometric pairs, Journal of operator theory,  92(1), 2024, with A. Anand and S. Chavan.
-2. A complete solution to the Cauchy dual subnormality problem for torally expansive toral 3-isometric weighted 2-shifts, New York Journal of Mathematics,30 , 2024. 
+2. A complete solution to the Cauchy dual subnormality problem for torally expansive toral 3-isometric weighted 2-shifts, New York Journal of Mathematics, 30, 2024. 
 3. The truncated univariate rational moment problem, Linear Algebra and its Applications, 708 (280-301), 2025, with Aljaž Zalar.
 
 
