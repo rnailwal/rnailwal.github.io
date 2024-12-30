@@ -31,7 +31,7 @@ Moment problems, Operator theory, Function theory
 
 ## Preprints
 1. with M. Bhattacharjee, A characterization of joint completely alternating nets,  submitted (2024).
-
+2. with Aljaž Zalar, Gaussian quadratures with prescribed nodes via moment theory, submitted (2024).
 
 ## Education
 - Ph.D. Mathematics, IIT Kanpur (2023)								       		
