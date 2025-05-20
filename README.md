@@ -4,7 +4,7 @@ Institute of Mathematics, Physics and Mechanics,
 
 Jadranska ulica 19, SI-1000 Ljubljana
 
-##### Email:  rajkamal.nailwal@imfm.si
+##### Email:  rajkamal.nailwal[AT]imfm[dot]si
 
 ## Research Interests
 Moment problems, Operator theory, Function theory
