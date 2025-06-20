@@ -27,13 +27,13 @@ Moment problems, Operator theory, Function theory
 
 ## Publications
  1. [Joint Complete monotonicity of rational functions in two variables and toral m-isometric pairs](https://arxiv.org/pdf/2207.13903), Journal of Operator Theory,  92(1), 2024, with A. Anand and S. Chavan.
-2. A complete solution to the Cauchy dual subnormality problem for torally expansive toral 3-isometric weighted 2-shifts, New York Journal of Mathematics, 30, 2024. 
-3. The truncated univariate rational moment problem, Linear Algebra and its Applications, 708 (280-301), 2025, with Aljaž Zalar.
+2. [A complete solution to the Cauchy dual subnormality problem for torally expansive toral 3-isometric weighted 2-shifts](https://arxiv.org/pdf/2310.04785), New York Journal of Mathematics, 30, 2024. 
+3. [The truncated univariate rational moment problem, Linear Algebra and its Applications](https://arxiv.org/pdf/2411.11480), 708 (280-301), 2025, with Aljaž Zalar.
 
 
 ## Preprints
-1. with M. Bhattacharjee, A characterization of completely alternating functions,  submitted (2024).
-2. with Aljaž Zalar, Gaussian quadratures with prescribed nodes via moment theory, submitted (2024).
+1. with M. Bhattacharjee, [A characterization of completely alternating functions](https://arxiv.org/pdf/2406.13291),  submitted (2024).
+2. with Aljaž Zalar, [Gaussian quadratures with prescribed nodes via moment theory](https://arxiv.org/pdf/2412.20849), submitted (2024).
 
 ## Education
 - Ph.D. Mathematics, IIT Kanpur (2023)								       		
