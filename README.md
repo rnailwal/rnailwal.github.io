@@ -18,6 +18,7 @@ Moment problems, Operator theory, Function theory
 
 
 ## Talks
+- The truncated univariate rational moment problem, IWOTA25, University of Twente, Netherlands, July 2025
 - Moment theory approach to Gaussian Quadratures with prescribed nodes, Linear Algebra Workshop (LAW'25), Portorož, Slovenia, June 2025
 - Hausdorff moment nets in two variables and toral m-isometric pairs, Faculty of Mathematics and Physics, Ljubljana, Slovenia, December 2024  
 - On completely monotone and completely alternating sequences induced by rational functions, In-House Symposium, IIT Madras, July 2024
