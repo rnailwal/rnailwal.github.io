@@ -38,7 +38,7 @@ Moment problems, Operator theory, Function theory
 
 ### Education
 - Ph.D. Mathematics, IIT Kanpur (2023) \\
- Supervisiors: [Prof. Akash Anand](https://home.iitk.ac.in/~akasha/), [Prof. Sameer Chavan](https://home.iitk.ac.in/~chavan/)						       		
+ Supervisors: [Prof. Akash Anand](https://home.iitk.ac.in/~akasha/), [Prof. Sameer Chavan](https://home.iitk.ac.in/~chavan/)						       		
 - M.Sc. Mathematics, IIT Indore (2017)	 			        		
 - B.Sc.(H) Mathematics, Delhi University (2014)
 
