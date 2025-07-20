@@ -37,7 +37,8 @@ Moment problems, Operator theory, Function theory
 2. with Aljaž Zalar, [Gaussian quadratures with prescribed nodes via moment theory](https://arxiv.org/pdf/2412.20849), submitted (2024).
 
 ### Education
-- Ph.D. Mathematics, IIT Kanpur (2023)								       		
+- Ph.D. Mathematics, IIT Kanpur (2023)
+- Supervisiors: [Prof. Akash Anand](https://home.iitk.ac.in/~akasha/), [Prof. Sameer Chavan](https://home.iitk.ac.in/~chavan/)						       		
 - M.Sc. Mathematics, IIT Indore (2017)	 			        		
 - B.Sc.(H) Mathematics, Delhi University (2014)
 
