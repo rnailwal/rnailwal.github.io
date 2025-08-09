@@ -1,6 +1,9 @@
-logo: cropped_image.png
-tittle: Rajkamal Nailwal
-description: <p align="center"><b>Postdoc (IMFM)</b></p>
-#email: rajkamal.nailwal@imfm.si
-#show_downloads: true
-#theme: jekyll-theme-minimal
+remote_theme: mmistakes/minimal-mistakes
+plugins: [jekyll-include-cache]
+
+title: Rajkamal Nailwal
+logo: /cropped_image.png
+subtitle: "<b>Postdoc (IMFM)</b>"
+author:
+  name: Rajkamal Nailwal
+minimal_mistakes_skin: default   # or "air", "aqua", "dark", etc.
