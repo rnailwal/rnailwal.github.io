@@ -35,7 +35,7 @@ Moment problems, Operator theory, Function theory
 ### Preprints
 1. with M. Bhattacharjee, [A characterization of completely alternating functions](https://arxiv.org/pdf/2406.13291),  submitted (2024).
 2. with Aljaž Zalar, [Gaussian quadratures with prescribed nodes via moment theory](https://arxiv.org/pdf/2412.20849), submitted (2024).
-3. Rank one perturbations of 2-isometries, submitted (2025).
+3. [Rank one perturbations of 2-isometries](https://arxiv.org/pdf/2508.09701), submitted (2025).
 
 ### Education
 - Ph.D. Mathematics, IIT Kanpur (2023) \\
