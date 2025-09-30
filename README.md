@@ -1,5 +1,5 @@
 ### Contact
-Office: 322,
+Office: 318,
 Institute of Mathematics, Physics and Mechanics, 
 
 Jadranska ulica 19, SI-1000 Ljubljana
