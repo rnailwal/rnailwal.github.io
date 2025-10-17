@@ -9,7 +9,6 @@
 ### 🧩 Research Interests
 > Moment problems · Operator theory · Function theory  
 
-My work centers around the interplay between **moment problems**, **operator theory**, and **complex function spaces**, often motivated by structures arising in **Dirichlet-type spaces** and **Toeplitz operators**.
 
 ---
 
