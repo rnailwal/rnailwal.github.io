@@ -1,4 +1,4 @@
-# 🧮 Rajkamal Nailwal
+
 
 **Postdoctoral Researcher in Mathematics**  
 📍 [Institute of Mathematics, Physics and Mechanics (IMFM)](https://www.imfm.si/), Ljubljana, Slovenia  
