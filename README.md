@@ -9,9 +9,9 @@
 ---
 
 ### 🧑‍🔬 Work Experience
-- **Postdoctoral Researcher**, IMFM, Ljubljana — *Nov 2024–Present*  
-- **Postdoctoral Researcher**, IIT Madras — *Apr 2024–Nov 2024*  
-- **Research Associate**, BITS Pilani Goa Campus — *Dec 2023–Apr 2024*  
+- *Postdoctoral Researcher*, IMFM, Ljubljana — *Nov 2024–Present*  
+- *Postdoctoral Researcher*, IIT Madras — *Apr 2024–Nov 2024*  
+- *Research Associate*, BITS Pilani Goa Campus — *Dec 2023–Apr 2024*  
 
 ---
 
@@ -26,28 +26,28 @@
 ---
 
 ### 🧾 Publications
-1. **[Joint Complete monotonicity of rational functions in two variables and toral m-isometric pairs](https://arxiv.org/pdf/2207.13903)**  
+1. *[Joint Complete monotonicity of rational functions in two variables and toral m-isometric pairs](https://arxiv.org/pdf/2207.13903)*  
    *J. Operator Theory*, **92(1)**, 2024 — with A. Anand and S. Chavan.  
-2. **[A complete solution to the Cauchy dual subnormality problem for torally expansive toral 3-isometric weighted 2-shifts](https://arxiv.org/pdf/2310.04785)**  
+2. *[A complete solution to the Cauchy dual subnormality problem for torally expansive toral 3-isometric weighted 2-shifts](https://arxiv.org/pdf/2310.04785)* 
    *New York J. Math.*, **30**, 2024.  
-3. **[The truncated univariate rational moment problem](https://arxiv.org/pdf/2411.11480)**  
+3. *[The truncated univariate rational moment problem](https://arxiv.org/pdf/2411.11480)*  
    *Linear Algebra Appl.*, **708**, 280–301, 2025 — with Aljaž Zalar.  
-4. **[A characterization of completely alternating functions](https://arxiv.org/pdf/2406.13291)**  
+4. *[A characterization of completely alternating functions](https://arxiv.org/pdf/2406.13291)*  
    *J. Approx. Theory*, **313**, 106230, 2026 — with M. Bhattacharjee.  
 
 ---
 
 ### 📄 Preprints
-1. **[Gaussian quadratures with prescribed nodes via moment theory](https://arxiv.org/pdf/2412.20849)** — with Aljaž Zalar, *submitted (2024)*.  
-2. **[Rank one perturbations of 2-isometries](https://arxiv.org/pdf/2508.09701)** — *submitted (2025)*.  
+1. *[Gaussian quadratures with prescribed nodes via moment theory](https://arxiv.org/pdf/2412.20849)** — with Aljaž Zalar, *submitted (2024)*.  
+2. *[Rank one perturbations of 2-isometries](https://arxiv.org/pdf/2508.09701)** — *submitted (2025)*.  
 
 ---
 
 ### 🎓 Education
-- **Ph.D. in Mathematics**, *Indian Institute of Technology Kanpur* (2023)  
+- *Ph.D. in Mathematics*, *Indian Institute of Technology Kanpur* (2023)  
   Supervisors: [Prof. Akash Anand](https://home.iitk.ac.in/~akasha/) and [Prof. Sameer Chavan](https://home.iitk.ac.in/~chavan/)  
-- **M.Sc. in Mathematics**, *IIT Indore* (2017)  
-- **B.Sc. (Hons.) in Mathematics**, *University of Delhi* (2014)  
+- *M.Sc. in Mathematics*, *IIT Indore* (2017)  
+- *B.Sc. (Hons.) in Mathematics*, *University of Delhi* (2014)  
 
 ---
 
