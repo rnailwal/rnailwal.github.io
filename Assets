@@ -1,1 +1,5 @@
-
+your-repo/
+ ├─ _config.yml
+ ├─ README.md
+ └─ Assets/
+     └─ cropped_image.png
