@@ -1,31 +1,6 @@
-# ===============================
-#  Rajkamal Nailwal | IMFM
-# ===============================
-
-# ---------- Basic Info ----------
-title: "<p align='center' style='font-size:28px; font-weight:600; margin-bottom:0;'>Rajkamal Nailwal</p>"
-description: "<p align='center' style='font-size:18px; font-weight:500; margin-top:0;'>Postdoctoral Researcher (IMFM, Ljubljana)</p>"
-
-# ---------- Logo ----------
-logo: /assets/cropped_image.png  # ensure this image exists in /assets/
-show_downloads: false
-
-# ---------- Theme ----------
+logo: cropped_image.png 
+tittle: <p align="center"><b>Rajkamal Nailwal</b></p> 
+description: <p align="center"><b>Postdoc (IMFM)</b></p> 
+#email: rajkamal.nailwal@imfm.si 
+#show_downloads: true 
 theme: jekyll-theme-minimal
-
-# ---------- Contact (optional fields you can use later) ----------
-# email: rajkamal.nailwal@imfm.si
-# google_scholar: https://scholar.google.com/citations?user=XXXX
-# orcid: https://orcid.org/XXXX
-# linkedin: https://www.linkedin.com/in/rajkamalnailwal/
-
-# ---------- Build ----------
-markdown: kramdown
-plugins:
-  - jekyll-seo-tag
-
-# ---------- Footer ----------
-footer: >
-  <p align='center'>
-  © 2025 Rajkamal Nailwal · Institute of Mathematics, Physics and Mechanics (IMFM), Ljubljana
-  </p>
