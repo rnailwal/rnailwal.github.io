@@ -29,10 +29,10 @@ Jadranska ulica 19, SI-1000 Ljubljana, Slovenia
 ---
 
 ### Publications
-1. *[Joint Complete monotonicity of rational functions in two variables and toral m-isometric pairs](https://arxiv.org/pdf/2207.13903)*, *J. Operator Theory*, *92(1)*, 2024 — with A. Anand and S. Chavan.  [link](https://jot.theta.ro/jot/archive/2024-092-001/2024-092-001-005.html)
-2. *[A complete solution to the Cauchy dual subnormality problem for torally expansive toral 3-isometric weighted 2-shifts](https://arxiv.org/pdf/2310.04785)*, *New York J. Math.*, *30*, 2024.  
-3. *[The truncated univariate rational moment problem](https://arxiv.org/pdf/2411.11480)*, *Linear Algebra Appl.*, *708*, 280–301, 2025 — with Aljaž Zalar.  
-4. *[A characterization of completely alternating functions](https://arxiv.org/pdf/2406.13291)*, *J. Approx. Theory*, *313*, 106230, 2026 — with M. Bhattacharjee.  
+1. *[Joint Complete monotonicity of rational functions in two variables and toral m-isometric pairs](https://arxiv.org/pdf/2207.13903)*, *J. Operator Theory*, *92(1)*, 2024 — with A. Anand and S. Chavan.  [Link](https://jot.theta.ro/jot/archive/2024-092-001/2024-092-001-005.html)
+2. *[A complete solution to the Cauchy dual subnormality problem for torally expansive toral 3-isometric weighted 2-shifts](https://arxiv.org/pdf/2310.04785)*, *New York J. Math.*, *30*, 2024. [Link](https://nyjm.albany.edu/j/2024/30-63v.pdf) 
+3. *[The truncated univariate rational moment problem](https://arxiv.org/pdf/2411.11480)*, *Linear Algebra Appl.*, *708*, 280–301, 2025 — with Aljaž Zalar.  [Link](https://www.sciencedirect.com/science/article/pii/S0024379524004816)
+4. *[A characterization of completely alternating functions](https://arxiv.org/pdf/2406.13291)*, *J. Approx. Theory*, *313*, 106230, 2026 — with M. Bhattacharjee.  [Link](https://www.sciencedirect.com/science/article/abs/pii/S0021904525000887)
 
 ---
 
