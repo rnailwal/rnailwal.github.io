@@ -62,4 +62,4 @@ Jadranska ulica 19, SI-1000 Ljubljana, Slovenia
 
 ---
 
-⏳ *Last updated: October 2025*
+⏳ *Last updated: November 2025*
