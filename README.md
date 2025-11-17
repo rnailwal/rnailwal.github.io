@@ -37,9 +37,9 @@ Jadranska ulica 19, SI-1000 Ljubljana, Slovenia
 ---
 
 ### Preprints
-1. *[Gaussian quadratures with prescribed nodes via moment theory](https://arxiv.org/pdf/2412.20849)* — with Aljaž Zalar, *submitted (2024)*.  
-2. *[Rank one perturbations of 2-isometries](https://arxiv.org/pdf/2508.09701)* — *submitted (2025)*.
-3.  Cyclic polynomials in Dirichlet-type spaces of the unit bidisk — with Aljaž Zalar, *preprint (2025)*.
+1. *[Gaussian quadratures with prescribed nodes via moment theory](https://arxiv.org/pdf/2412.20849)* — with Aljaž Zalar
+2. *[Rank one perturbations of 2-isometries](https://arxiv.org/pdf/2508.09701)* 
+3.  Cyclic polynomials in Dirichlet-type spaces of the unit bidisk — with Aljaž Zalar
 
 ---
 
