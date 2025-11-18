@@ -12,9 +12,12 @@ Jadranska ulica 19, SI-1000 Ljubljana, Slovenia
 ---
 
 ###  Work Experience
-- *Postdoctoral Researcher*, IMFM, Ljubljana — *Nov 2024–Present* (Mentor: [A. Zalar](https://zalara.github.io/))  
-- *Postdoctoral Researcher*, IIT Madras — *Apr 2024–Nov 2024* (Mentor: [S. Kumar](https://math.iitm.ac.in/innerfaculty.php?fname=Surjit%20Kumar))    
-- *Research Associate*, BITS Pilani Goa Campus — *Dec 2023–Apr 2024* (Mentor: [M. Bhattacharjee](https://www.bits-pilani.ac.in/goa/monojit-bhattacharjee/))  
+- *Postdoctoral Researcher*, IMFM, Ljubljana — *Nov 2024–Present*
+ (Mentor: [A. Zalar](https://zalara.github.io/))  
+- *Postdoctoral Researcher*, IIT Madras — *Apr 2024–Nov 2024*
+(Mentor: [S. Kumar](https://math.iitm.ac.in/innerfaculty.php?fname=Surjit%20Kumar))    
+- *Research Associate*, BITS Pilani Goa Campus — *Dec 2023–Apr 2024*
+  (Mentor: [M. Bhattacharjee](https://www.bits-pilani.ac.in/goa/monojit-bhattacharjee/))  
 
 ---
 
