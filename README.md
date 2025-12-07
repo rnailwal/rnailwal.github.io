@@ -60,10 +60,12 @@ Jadranska ulica 19, SI-1000 Ljubljana, Slovenia
 - IIT Madras — *Oct 2022*  
 
 ---
-
+### Recommendations
+- C^* algebras and spectral theorem by Prof. E. K. Narayanan [Link](https://nptel.ac.in/courses/111108164)
+  
 
 
 
 ---
 
-⏳ *Last updated: November 2025*
+⏳ *Last updated: December 2025*
