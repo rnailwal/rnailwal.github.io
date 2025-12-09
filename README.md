@@ -61,7 +61,8 @@ Jadranska ulica 19, SI-1000 Ljubljana, Slovenia
 
 ---
 ### Recommendations
-- C* algebras and spectral theorem by Prof. E. K. Narayanan [Link](https://nptel.ac.in/courses/111108164)
+- C* algebras and spectral theorem [Link](https://nptel.ac.in/courses/111108164)
+- Algebraic Topolgy [Link](https://www.youtube.com/playlist?list=PLOROtRhtegr7DmeMyFxfKxsljAVsAn_X4)
   
 
 
