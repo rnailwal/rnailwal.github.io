@@ -63,6 +63,7 @@ Jadranska ulica 19, SI-1000 Ljubljana, Slovenia
 ### Recommendations
 - C* algebras and spectral theorem [Link](https://nptel.ac.in/courses/111108164)
 - Algebraic Topology [Link](https://www.youtube.com/playlist?list=PLOROtRhtegr7DmeMyFxfKxsljAVsAn_X4)
+- Lie Algebra [Link](https://www.youtube.com/playlist?list=PLVMgvCDIRy1zJ6iJHLC_lWgIwY4AhviZ-)
   
 
 
