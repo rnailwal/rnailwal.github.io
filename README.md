@@ -36,7 +36,7 @@ Jadranska ulica 19, SI-1000 Ljubljana, Slovenia
 2. *[A complete solution to the Cauchy dual subnormality problem for torally expansive toral 3-isometric weighted 2-shifts](https://arxiv.org/pdf/2310.04785)*, *New York J. Math.*, *30*, 2024. [Link](https://nyjm.albany.edu/j/2024/30-63v.pdf) 
 3. *[The truncated univariate rational moment problem](https://arxiv.org/pdf/2411.11480)*, *Linear Algebra Appl.*, *708*, 280–301, 2025 — with Aljaž Zalar.  [Link](https://www.sciencedirect.com/science/article/pii/S0024379524004816)
 4. *[A characterization of completely alternating functions](https://arxiv.org/pdf/2406.13291)*, *J. Approx. Theory*, *313*, 106230, 2026 — with M. Bhattacharjee.  [Link](https://www.sciencedirect.com/science/article/abs/pii/S0021904525000887)
-5. *[Rank one perturbations of 2-isometries](https://arxiv.org/pdf/2508.09701)* to appear in Complex Analysis and Operator Theory
+5. *[Rank one perturbations of 2-isometries](https://arxiv.org/pdf/2508.09701)* to appear in Complex Anal. Oper. Theory
 
 ---
 
