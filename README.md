@@ -50,7 +50,7 @@ Jadranska ulica 19, SI-1000 Ljubljana, Slovenia
 ### Education
 - *Ph.D. in Mathematics*, *Indian Institute of Technology Kanpur* (2023)  
   Supervisors: [Prof. Akash Anand](https://home.iitk.ac.in/~akasha/) and [Prof. Sameer Chavan](https://home.iitk.ac.in/~chavan/)  
-- *M.Sc. in Mathematics*, *IIT Indore* (2017)  
+- *M.Sc. in Mathematics*, *Indian Institute of Technology Indore* (2017)  
 - *B.Sc. (Hons.) in Mathematics*, *University of Delhi* (2014)  
 
 ---
