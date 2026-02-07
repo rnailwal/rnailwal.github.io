@@ -27,7 +27,8 @@ Jadranska ulica 19, SI-1000 Ljubljana, Slovenia
 - *Hausdorff moment nets in two variables and toral m-isometric pairs*, Faculty of Mathematics and Physics, Ljubljana — *Dec 2024*  
 - *On completely monotone and completely alternating sequences induced by rational functions*, In-House Symposium, IIT Madras — *July 2024*
 - *Moment problem in one variable*, Research Scholar Seminar, BITS Pilani Goa Campus — *Apr 2024*  
-- *A two-dimensional moment problem*, Research Scholar Seminar, IIT Hyderabad — *Sept 2023*  
+- *A two-dimensional moment problem*, Research Scholar Seminar, IIT Hyderabad — *Sept 2023*
+- *Joint completely monotonic functions in two variables*, IWOTA 2022, Kraków, Poland, 2022
 
 ---
 
