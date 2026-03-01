@@ -59,7 +59,16 @@ Jadranska ulica 19, SI-1000 Ljubljana, Slovenia
 ### Academic Visits
 - BITS Pilani, Pilani Campus — *Oct 2023*  
 - IIT Hyderabad — *Sept 2023*  
-- IIT Madras — *Oct 2022*  
+- IIT Madras — *Oct 2022*
+
+ ### Conferences
+- IWOTA 2025, July 14-18, University of Twente, Netherlands
+- WOTCA 25, July 7-11, Universidade de Aveiro, Portugal, 2025
+- 9th Linear Algebra Workshop (LAW'25), June 2-6, Portoroz, Slovenia, 2025
+- Operator Theory and Operator Algebra (OTOA), March 06-11, IIT Gandhinagar, 2023
+- Operator Theory and Complex Geometry, IISER Kolkata, Nov 24-26, 2022
+- IWOTA 2022, Sept 06-10, Krakow, Poland
+
 
 ---
 ### Recommendations
@@ -72,4 +81,4 @@ Jadranska ulica 19, SI-1000 Ljubljana, Slovenia
 
 ---
 
-⏳ *Last updated: February 2026*
+⏳ *Last updated: March 2026*
