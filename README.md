@@ -73,8 +73,8 @@ Jadranska ulica 19, SI-1000 Ljubljana, Slovenia
 - Operator Theory and Complex Geometry, IISER Kolkata, Nov 24-26, 2022
 - IWOTA 2022, Sept 06-10, Krakow, Poland
 
-
 ---
+
 ### Recommendations
 - C* algebras and spectral theorem [Link](https://nptel.ac.in/courses/111108164)
 - Algebraic Topology [Link](https://www.youtube.com/playlist?list=PLOROtRhtegr7DmeMyFxfKxsljAVsAn_X4)
