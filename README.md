@@ -61,6 +61,8 @@ Jadranska ulica 19, SI-1000 Ljubljana, Slovenia
 - IIT Hyderabad — *Sept 2023*  
 - IIT Madras — *Oct 2022*
 
+---
+
 ### Conferences
 - GPOTS 2026, May 26-30,  The University of Iowa, US, 2026
 - Harmonic Analysis Days in Ljubljana, March 26 - 28, Ljubljana, Slovenia, 2026
