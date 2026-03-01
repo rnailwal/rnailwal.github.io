@@ -62,6 +62,8 @@ Jadranska ulica 19, SI-1000 Ljubljana, Slovenia
 - IIT Madras — *Oct 2022*
 
  ### Conferences
+- GPOTS 2026, May 26-30,  The University of Iowa, US, 2026
+- Harmonic Analysis Days in Ljubljana, March 26 - 28, Ljubljana, Slovenia, 2026
 - IWOTA 2025, July 14-18, University of Twente, Netherlands
 - WOTCA 25, July 7-11, Universidade de Aveiro, Portugal, 2025
 - 9th Linear Algebra Workshop (LAW'25), June 2-6, Portoroz, Slovenia, 2025
