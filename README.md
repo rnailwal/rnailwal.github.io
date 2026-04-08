@@ -1,8 +1,10 @@
 ### Contact
 **Office:** Room 318    
 📍 [Institute of Mathematics, Physics and Mechanics (IMFM)](https://www.imfm.si/),
-Jadranska ulica 19, SI-1000 Ljubljana, Slovenia
-📧 rajkamal.nailwal[AT]imfm[dot]si  
+
+  Jadranska ulica 19, SI-1000 Ljubljana, Slovenia
+  
+  📧 rajkamal.nailwal[AT]imfm[dot]si  
 
 ---
 
