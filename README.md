@@ -47,7 +47,7 @@
 1. *[Gaussian quadratures with prescribed nodes via moment theory](https://arxiv.org/pdf/2412.20849)* — with Aljaž Zalar
 2.  *[Cyclic polynomials in Dirichlet-type spaces of the unit bidisk](https://arxiv.org/pdf/2511.13441)* — with Aljaž Zalar
 3. 	Rank-one perturbations and essential 2-generalized projections
-4. 	Invariant Subspaces and the $C_{00}$-Property of $3$-Brownian Shifts
+4. 	Invariant Subspaces and the C_{00}-Property of 3-Brownian Shifts
 
 ---
 
