@@ -1,20 +1,10 @@
-### Contact
-**Office:** Room 318    
-📍 [Institute of Mathematics, Physics and Mechanics (IMFM)](https://www.imfm.si/),
-
-  Jadranska ulica 19, SI-1000 Ljubljana, Slovenia
-  
-  📧 rajkamal.nailwal[AT]imfm[dot]si  
-
----
-
 ###  Research Interests
 > Moment problems · Operator theory · Function theory
 
 ---
 
 ###  Work Experience
-- *Postdoctoral Researcher*, IMFM, Ljubljana — *Nov 2024–Present*
+- *Postdoctoral Researcher*, IMFM, Ljubljana — *Nov 2024–April 2026*
  (Mentor: [A. Zalar](https://zalara.github.io/))  
 - *Postdoctoral Researcher*, IIT Madras — *Apr 2024–Nov 2024*
 (Mentor: [S. Kumar](https://math.iitm.ac.in/innerfaculty.php?fname=Surjit%20Kumar))    
@@ -88,4 +78,4 @@
 
 ---
 
-⏳ *Last updated: March 2026*
+⏳ *Last updated: May 2026*
