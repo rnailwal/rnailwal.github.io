@@ -14,6 +14,7 @@
 ---
 
 ### Talks
+- *Cyclic Polynomials in Dirichlet-Type Spaces of the Unit Bidisk*, GPOTS 2026, The University of Iowa, USA - *May 26–30, 2026*
 - *The truncated univariate rational moment problem*, IWOTA 2025, University of Twente, Netherlands — *July 2025*  
 - *Moment theory approach to Gaussian Quadratures with prescribed nodes*, Linear Algebra Workshop (LAW'25), Portorož, Slovenia — *June 2025*  
 - *Hausdorff moment nets in two variables and toral m-isometric pairs*, Faculty of Mathematics and Physics, Ljubljana — *Dec 2024*  
