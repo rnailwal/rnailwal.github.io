@@ -36,7 +36,7 @@
 
 ### Preprints
 1. *[Gaussian quadratures with prescribed nodes via moment theory](https://arxiv.org/pdf/2412.20849)* — with Aljaž Zalar
-2.  [Cyclic polynomials in Dirichlet-type spaces of the unit bidisk](Papers/Cyclic_polynomials (1).pdf) — with Aljaž Zalar
+2.  [Cyclic polynomials in Dirichlet-type spaces of the unit bidisk](Papers/Cyclic_polynomials(1).pdf) — with Aljaž Zalar
 3. 	Rank-one perturbations and essential 2-generalized projections
 4. 	[Invariant Subspaces and the C_{00}-Property of 3-Brownian Shifts](Papers/B-3-SHIFT.pdf)
 
