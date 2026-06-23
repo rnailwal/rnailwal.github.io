@@ -3,15 +3,6 @@
 
 ---
 
-###  Work Experience
-- *Postdoctoral Researcher*, IMFM, Ljubljana — *Nov 2024–April 2026*
- (Mentor: [A. Zalar](https://zalara.github.io/))  
-- *Postdoctoral Researcher*, IIT Madras — *Apr 2024–Nov 2024*
-(Mentor: [S. Kumar](https://math.iitm.ac.in/innerfaculty.php?fname=Surjit%20Kumar))    
-- *Research Associate*, BITS Pilani Goa Campus — *Dec 2023–Apr 2024*
-  (Mentor: [M. Bhattacharjee](https://www.bits-pilani.ac.in/goa/monojit-bhattacharjee/))  
-
----
 
 ### Talks
 - *Cyclic Polynomials in Dirichlet-Type Spaces of the Unit Bidisk*, GPOTS 2026, The University of Iowa, USA - *May 26–30, 2026* *[Slides](presentation_on_cyclicity.pdf)*
@@ -39,14 +30,7 @@
 1. *[Gaussian quadratures with prescribed nodes via moment theory](https://arxiv.org/pdf/2412.20849)* — with Aljaž Zalar
 2. 	Rank-one perturbations and essential 2-generalized projections
 3. 	[Invariant Subspaces and the C_{00}-Property of 3-Brownian Shifts](Papers/B-3-SHIFT.pdf)
-
----
-
-### Education
-- *Ph.D. in Mathematics*, *Indian Institute of Technology Kanpur* (2023)  
-  Supervisors: [Prof. Akash Anand](https://home.iitk.ac.in/~akasha/) and [Prof. Sameer Chavan](https://home.iitk.ac.in/~chavan/)  
-- *M.Sc. in Mathematics*, *Indian Institute of Technology Indore* (2017)  
-- *B.Sc. (Hons.) in Mathematics*, *University of Delhi* (2014)  
+ 
 
 ---
 
