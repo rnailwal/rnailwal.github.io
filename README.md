@@ -19,9 +19,9 @@
 1. *[Gaussian quadratures with prescribed nodes via moment theory](https://arxiv.org/pdf/2412.20849)* — with Aljaž Zalar
 2. 	Rank-one perturbations and essential 2-generalized projections
 3. 	[Invariant Subspaces and the C_{00}-Property of 3-Brownian Shifts](Papers/B-3-SHIFT.pdf)
-   ---
+    
 
-
+---
 ### Talks
 - *Cyclic Polynomials in Dirichlet-Type Spaces of the Unit Bidisk*, GPOTS 2026, The University of Iowa, USA - *May 26–30, 2026* *[Slides](presentation_on_cyclicity.pdf)*
 - *The truncated univariate rational moment problem*, IWOTA 2025, University of Twente, Netherlands — *July 2025*  *[Slides](IWOTA_25_Presentation_Rational_moment(1).pdf)*
