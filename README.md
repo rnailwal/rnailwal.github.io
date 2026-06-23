@@ -1,5 +1,5 @@
 ###  Research Interests
-> Moment problems · Operator theory · Function theory
+> Moment problems · Operator theory · Function spaces
 
 
 
