@@ -11,7 +11,8 @@
 3. *[The truncated univariate rational moment problem](https://arxiv.org/pdf/2411.11480)*, *Linear Algebra Appl.*, *708*, *280–301*, 2025 — with Aljaž Zalar.  [Link](https://www.sciencedirect.com/science/article/pii/S0024379524004816)
 4. *[A characterization of completely alternating functions](https://arxiv.org/pdf/2406.13291)*, *J. Approx. Theory*, *313*, 106230, 2026 — with M. Bhattacharjee.  [Link](https://www.sciencedirect.com/science/article/abs/pii/S0021904525000887)
 5. *[Rank one perturbations of 2-isometries](https://arxiv.org/pdf/2508.09701),* *Complex Anal. Oper. Theory,* *20(43)*, 2026. [Link](https://link.springer.com/article/10.1007/s11785-025-01898-x)
-6. [Cyclic polynomials in Dirichlet-type spaces of the unit bidisk](Papers/Cyclic_polynomials(1).pdf) — with Aljaž Zalar, Accepted in Analysis and Mathematical Physics.
+6. *[Cyclic polynomials in Dirichlet-type spaces of the unit bidisk](Papers/Cyclic_polynomials(1).pdf),*  *Anal. Math. Phys.,* *16 (87)* 2026-with Aljaž Zalar.
+ [Link](https://link.springer.com/article/10.1007/s13324-026-01233-3).
 
 ---
 
