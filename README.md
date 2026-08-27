@@ -8,18 +8,19 @@
 ### Publications
 1. *[Joint Complete monotonicity of rational functions in two variables and toral m-isometric pairs](https://arxiv.org/pdf/2207.13903)*, *J. Operator Theory*, *92(1)*, 2024 — with A. Anand and S. Chavan.  [Link](https://jot.theta.ro/jot/archive/2024-092-001/2024-092-001-005.html)
 2. *[A complete solution to the Cauchy dual subnormality problem for torally expansive toral 3-isometric weighted 2-shifts](https://arxiv.org/pdf/2310.04785)*, *New York J. Math.*, *30*, 2024. [Link](https://nyjm.albany.edu/j/2024/30-63v.pdf) 
-3. *[The truncated univariate rational moment problem](https://arxiv.org/pdf/2411.11480)*, *Linear Algebra Appl.*, *708*, *280–301*, 2025 — with Aljaž Zalar.  [Link](https://www.sciencedirect.com/science/article/pii/S0024379524004816)
+3. *[The truncated univariate rational moment problem](https://arxiv.org/pdf/2411.11480)*, *Linear Algebra Appl.*, *708*, *280–301*, 2025 — with A. Zalar.  [Link](https://www.sciencedirect.com/science/article/pii/S0024379524004816)
 4. *[A characterization of completely alternating functions](https://arxiv.org/pdf/2406.13291)*, *J. Approx. Theory*, *313*, 106230, 2026 — with M. Bhattacharjee.  [Link](https://www.sciencedirect.com/science/article/abs/pii/S0021904525000887)
 5. *[Rank one perturbations of 2-isometries](https://arxiv.org/pdf/2508.09701),* *Complex Anal. Oper. Theory* *20, 43*, 2026. [Link](https://link.springer.com/article/10.1007/s11785-025-01898-x)
-6. *[Cyclic polynomials in Dirichlet-type spaces of the unit bidisk](Papers/Cyclic_polynomials(1).pdf),*  *Anal. Math. Phys.* *16, 87* 2026 — with Aljaž Zalar.
+6. *[Cyclic polynomials in Dirichlet-type spaces of the unit bidisk](Papers/Cyclic_polynomials(1).pdf),*  *Anal. Math. Phys.* *16, 87* 2026 — with A. Zalar.
  [Link](https://link.springer.com/article/10.1007/s13324-026-01233-3).
 
 ---
 
 ### Preprints
-1. *[Gaussian quadratures with prescribed nodes via moment theory](https://arxiv.org/pdf/2412.20849)* — with Aljaž Zalar
+1. *[Gaussian quadratures with prescribed nodes via moment theory](https://arxiv.org/pdf/2412.20849)* — with A. Zalar
 2. 	Rank-one perturbations and essential 2-generalized projections
 3. 	[Invariant Subspaces and the C_{00}-Property of 3-Brownian Shifts](Papers/B-3-SHIFT.pdf)
+4. 	[Truncated moment problems and the extension property on monomial curves](Papers/Extension_property.pdf) -with A. Zalar and I. Zobovič
     
 
 ---
