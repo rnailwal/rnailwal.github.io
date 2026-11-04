@@ -68,4 +68,4 @@
 
 ---
 
-⏳ *Last updated: July 2026*
+⏳ *Last updated: Nov. 2026*
