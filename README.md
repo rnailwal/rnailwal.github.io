@@ -48,7 +48,7 @@
 
 ## Talks
 
-- **Cyclic polynomials in Dirichlet-type spaces of the unit bidisk**  (Invited)
+- **Cyclic polynomials in Dirichlet-type spaces of the unit bidisk**
   GPOTS 2026, The University of Iowa, USA · May 26–30, 2026  
   [Slides](presentation_on_cyclicity.pdf)
 
