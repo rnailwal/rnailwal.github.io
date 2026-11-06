@@ -1,5 +1,4 @@
 
-My research interests lie in **operator theory, function spaces, and moment problems**.
 
 [Publications](#publications) · [Preprints](#preprints) · [Talks](#talks) · [Academic Visits](#academic-visits) · [Conferences](#conferences) · [Learning Resources](#learning-resources)
 
