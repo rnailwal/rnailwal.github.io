@@ -1,7 +1,3 @@
-### Research Interests
-
-My research interests lie in **operator theory, function spaces, and moment problems**.
-
 ## Publications
 
 1. **Cyclic polynomials in Dirichlet-type spaces of the unit bidisk**  
