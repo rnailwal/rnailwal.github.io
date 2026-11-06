@@ -74,6 +74,7 @@
 
 ## Academic Visits
 
+- **IIT Kanpur** · May - August 2026
 - **BITS Pilani, Pilani Campus** · October 2023
 - **IIT Hyderabad** · September 2023
 - **IIT Madras** · October 2022
