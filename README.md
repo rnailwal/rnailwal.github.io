@@ -4,7 +4,7 @@
 
 ## Publications
 
-1. **Cyclic polynomials in Dirichlet-type spaces of the unit bidisk**  
+1. **Cyclic polynomials in Dirichlet-type spaces of the unit bidisk** 
    With A. Zalar. *Anal. Math. Phys.* **16**, Article 87 (2026).  
    [PDF](<Papers/Cyclic_polynomials(1).pdf>) · [Journal](https://link.springer.com/article/10.1007/s13324-026-01233-3)
 
@@ -48,7 +48,7 @@
 
 ## Talks
 
-- **Cyclic polynomials in Dirichlet-type spaces of the unit bidisk**  
+- **Cyclic polynomials in Dirichlet-type spaces of the unit bidisk**  (Invited)
   GPOTS 2026, The University of Iowa, USA · May 26–30, 2026  
   [Slides](presentation_on_cyclicity.pdf)
 
