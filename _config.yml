@@ -1,5 +1,12 @@
 title: Rajkamal Nailwal
-logo: cropped_image.png
-#description: text below image
-#show_downloads: true
+logo: /cropped_image.png
+
+description: >-
+  Postdoctoral Researcher<br>
+  Nalanda University<br>
+  Rajgir, Bihar, India<br><br>
+  Operator Theory · Function Spaces · Moment Problems
+
 theme: jekyll-theme-minimal
+show_downloads: false
+lang: en
