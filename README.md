@@ -1,7 +1,3 @@
-# Rajkamal Nailwal
-
-**Postdoctoral Researcher**  
-Nalanda University, Rajgir, Bihar, India
 
 My research interests lie in **operator theory, function spaces, and moment problems**.
 
