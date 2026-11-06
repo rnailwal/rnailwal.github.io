@@ -1,0 +1,58 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/* Readable text */
+body {
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 16px;
+  line-height: 1.7;
+  color: #333;
+}
+
+/* Clear headings */
+h1, h2, h3 {
+  font-family: Arial, Helvetica, sans-serif;
+  color: #173b57;
+}
+
+h2 {
+  margin-top: 32px;
+  padding-bottom: 8px;
+  border-bottom: 1px solid #e2e8ed;
+}
+
+/* Profile photograph */
+header img {
+  display: block;
+  width: 180px;
+  max-width: 100%;
+  height: auto;
+  border-radius: 12px;
+  margin: 18px 0;
+}
+
+/* Sidebar text */
+header p {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 14px;
+  line-height: 1.7;
+}
+
+/* Links */
+a {
+  color: #176b91;
+}
+
+a:hover,
+a:focus {
+  color: #104b66;
+  font-weight: inherit;
+  text-decoration: underline;
+}
+
+/* Space between publications and talks */
+section li {
+  margin-bottom: 16px;
+}
