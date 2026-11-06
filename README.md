@@ -1,30 +1,30 @@
+### Research Interests
 
-
-[Publications](#publications) · [Preprints](#preprints) · [Talks](#talks) · [Academic Visits](#academic-visits) · [Conferences](#conferences) · [Learning Resources](#learning-resources)
+My research interests lie in **operator theory, function spaces, and moment problems**.
 
 ## Publications
 
-1. **Cyclic polynomials in Dirichlet-type spaces of the unit bidisk**   
+1. **Cyclic polynomials in Dirichlet-type spaces of the unit bidisk**  
    With A. Zalar. *Anal. Math. Phys.* **16**, Article 87 (2026).  
    [PDF](<Papers/Cyclic_polynomials(1).pdf>) · [Journal](https://link.springer.com/article/10.1007/s13324-026-01233-3)
 
-3. **Rank one perturbations of 2-isometries**  
+2. **Rank one perturbations of 2-isometries**  
    *Complex Anal. Oper. Theory* **20**, Article 43 (2026).  
    [arXiv](https://arxiv.org/abs/2508.09701) · [Journal](https://link.springer.com/article/10.1007/s11785-025-01898-x)
 
-4. **A characterization of completely alternating functions**  
+3. **A characterization of completely alternating functions**  
    With M. Bhattacharjee. *J. Approx. Theory* **313**, Article 106230 (2026).  
    [arXiv](https://arxiv.org/abs/2406.13291) · [Journal](https://www.sciencedirect.com/science/article/abs/pii/S0021904525000887)
 
-5. **The truncated univariate rational moment problem**  
+4. **The truncated univariate rational moment problem**  
    With A. Zalar. *Linear Algebra Appl.* **708**, 280–301 (2025).  
    [arXiv](https://arxiv.org/abs/2411.11480) · [Journal](https://www.sciencedirect.com/science/article/pii/S0024379524004816)
 
-6. **A complete solution to the Cauchy dual subnormality problem for torally expansive toral 3-isometric weighted 2-shifts**  
+5. **A complete solution to the Cauchy dual subnormality problem for torally expansive toral 3-isometric weighted 2-shifts**  
    *New York J. Math.* **30** (2024).  
    [arXiv](https://arxiv.org/abs/2310.04785) · [Journal](https://nyjm.albany.edu/j/2024/30-63v.pdf)
 
-7. **Joint complete monotonicity of rational functions in two variables and toral m-isometric pairs**  
+6. **Joint complete monotonicity of rational functions in two variables and toral m-isometric pairs**  
    With A. Anand and S. Chavan. *J. Operator Theory* **92**(1) (2024).  
    [arXiv](https://arxiv.org/abs/2207.13903) · [Journal](https://jot.theta.ro/jot/archive/2024-092-001/2024-092-001-005.html)
 
@@ -111,12 +111,9 @@
 ## Learning Resources
 
 - [C*-algebras and the spectral theorem](https://nptel.ac.in/courses/111108164) — NPTEL
+
 - [Algebraic topology](https://www.youtube.com/playlist?list=PLOROtRhtegr7DmeMyFxfKxsljAVsAn_X4) — lecture playlist
+
 - [Lie algebras](https://www.youtube.com/playlist?list=PLVMgvCDIRy1zJ6iJHLC_lWgIwY4AhviZ-) — lecture playlist
+
 - [Mathematical Adventures](https://www.youtube.com/@mathematicaladventures/featured) — YouTube channel
-  
-
-
----
-
-⏳ *Last updated: Nov. 2026*
