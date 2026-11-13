@@ -105,3 +105,27 @@ section li {
   color: #800000;
   font-style: italic;
 }
+/* Use the available screen width on computers */
+@media screen and (min-width: 961px) {
+  body {
+    margin: 0;
+    padding: 30px;
+  }
+
+  .wrapper {
+    width: 100%;
+    max-width: none;
+    margin: 0;
+  }
+
+  /* Profile sidebar */
+  .wrapper > header,
+  .wrapper > footer {
+    width: 270px;
+  }
+
+  /* Publications, tabs, and other content */
+  .wrapper > section {
+    width: calc(100% - 320px);
+  }
+}
