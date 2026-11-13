@@ -129,3 +129,8 @@ section li {
     width: calc(100% - 320px);
   }
 }
+/* Lighter publication titles */
+#panel-publications li > strong:first-child,
+#panel-publications li > p:first-child > strong:first-child {
+  font-weight: 400;
+}
