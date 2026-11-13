@@ -97,3 +97,12 @@ document.addEventListener("DOMContentLoaded", () => {
   window.addEventListener("hashchange", selectFromHash);
   selectFromHash();
 });
+/* Link your name to your MathSciNet author page */
+document.addEventListener("DOMContentLoaded", () => {
+  const nameLink = document.querySelector(".wrapper > header h1 a");
+
+  if (nameLink) {
+    nameLink.href =
+      "https://mathscinet.ams.org/mathscinet/author?authorId=1632496";
+  }
+});
