@@ -26,7 +26,7 @@
 
 ## Preprints
 
-1. **Gaussian quadratures with prescribed nodes via moment theory**  
+1. *Gaussian quadratures with prescribed nodes via moment theory*  
    With A. Zalar.  
    [arXiv](https://arxiv.org/abs/2412.20849)
 
