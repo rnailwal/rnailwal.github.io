@@ -44,65 +44,65 @@
 
 ## Talks
 
-- **Cyclic polynomials in Dirichlet-type spaces of the unit bidisk**  
+- *Cyclic polynomials in Dirichlet-type spaces of the unit bidisk* 
   GPOTS 2026, The University of Iowa, USA · May 26–30, 2026  
   [Slides](presentation_on_cyclicity.pdf)
 
-- **The truncated univariate rational moment problem**  
+- *The truncated univariate rational moment problem*  
   IWOTA 2025, University of Twente, Netherlands · July 2025  
   [Slides](<IWOTA_25_Presentation_Rational_moment(1).pdf>)
 
-- **Moment theory approach to Gaussian quadratures with prescribed nodes**  
+- *Moment theory approach to Gaussian quadratures with prescribed nodes*  
   Linear Algebra Workshop (LAW ’25), Portorož, Slovenia · June 2025  
   [Slides](LAW25presentation.pdf)
 
-- **Hausdorff moment nets in two variables and toral m-isometric pairs**  
+- *Hausdorff moment nets in two variables and toral m-isometric pairs*  
   Faculty of Mathematics and Physics, Ljubljana, Slovenia · December 2024  
   [Slides](HausdorffMN.pdf)
 
-- **On completely monotone and completely alternating sequences induced by rational functions**  
+- *On completely monotone and completely alternating sequences induced by rational functions*  
   In-House Symposium, IIT Madras · July 2024
 
-- **Moment problem in one variable**  
+- *Moment problem in one variable*  
   Research Scholar Seminar, BITS Pilani, Goa Campus · April 2024
 
-- **A two-dimensional moment problem**  
+- *A two-dimensional moment problem*  
   Research Scholar Seminar, IIT Hyderabad · September 2023
 
-- **Joint completely monotonic functions in two variables**  
+- *Joint completely monotonic functions in two variables*  
   IWOTA 2022, Kraków, Poland · September 2022
 
 ## Academic Visits
 
-- **IIT Kanpur** · May - August 2026
-- **BITS Pilani, Pilani Campus** · October 2023
-- **IIT Hyderabad** · September 2023
-- **IIT Madras** · October 2022
+- *IIT Kanpur* · May - August 2026
+- *BITS Pilani, Pilani Campus* · October 2023
+- *IIT Hyderabad* · September 2023
+- *IIT Madras* · October 2022
 
 ## Conferences
 
-- **GPOTS 2026**  
+- *GPOTS 2026* 
   The University of Iowa, USA · May 26–30, 2026
 
-- **Harmonic Analysis Days in Ljubljana**  
+- *Harmonic Analysis Days in Ljubljana*  
   Ljubljana, Slovenia · March 26–28, 2026
 
-- **IWOTA 2025**  
+- *IWOTA 2025*  
   University of Twente, Netherlands · July 14–18, 2025
 
-- **WOTCA 2025**  
+- *WOTCA 2025* 
   Universidade de Aveiro, Portugal · July 7–11, 2025
 
-- **9th Linear Algebra Workshop (LAW ’25)**  
+- *9th Linear Algebra Workshop (LAW ’25)* 
   Portorož, Slovenia · June 2–6, 2025
 
-- **Operator Theory and Operator Algebra (OTOA)**  
+- *Operator Theory and Operator Algebra (OTOA)*  
   IIT Gandhinagar · March 6–11, 2023
 
-- **Operator Theory and Complex Geometry**  
+- *Operator Theory and Complex Geometry*  
   IISER Kolkata · November 24–26, 2022
 
-- **IWOTA 2022**  
+- *IWOTA 2022*  
   Kraków, Poland · September 6–10, 2022
 
 ## Learning Resources
