@@ -43,7 +43,7 @@ With A. Anand and S. Chavan. <span class="journal">J. Operator Theory</span> **9
 
 ## Talks
 
-- *Cyclic polynomials in Dirichlet-type spaces of the unit bidisk* 
+- *Cyclic polynomials in Dirichlet-type spaces of the unit bidisk*   
   GPOTS 2026, The University of Iowa, USA · May 26–30, 2026  
   [Slides](presentation_on_cyclicity.pdf)
 
