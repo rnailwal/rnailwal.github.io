@@ -26,20 +26,16 @@ With A. Anand and S. Chavan. <span class="journal">J. Operator Theory</span> **9
 ## Preprints
 
 1. *Gaussian quadratures with prescribed nodes via moment theory*  
-   With A. Zalar.  
-   [arXiv](https://arxiv.org/abs/2412.20849)
+   With A. Zalar.  [arXiv](https://arxiv.org/abs/2412.20849)
 
 2. *Rank-one perturbations and essential 2-generalized projections*
 
-3. *Invariant subspaces and the C₀₀-property of 3-Brownian shifts* 
-   [PDF](Papers/B-3-SHIFT.pdf)
+3. *Invariant subspaces and the C₀₀-property of 3-Brownian shifts* [PDF](Papers/B-3-SHIFT.pdf)
 
 4. *Truncated moment problems and the extension property on monomial curves*  
-   With A. Zalar and I. Zobovič.  
-   [PDF](Papers/Extension_property.pdf)
+   With A. Zalar and I. Zobovič.  [PDF](Papers/Extension_property.pdf)
 
-5. *A multivariable class of completely monotonic functions*  
-   [PDF](Papers/A_multivariable_class_of__completely_monotonic_functions.pdf)
+5. *A multivariable class of completely monotonic functions*  [PDF](Papers/A_multivariable_class_of__completely_monotonic_functions.pdf)
 
 ## Talks
 
