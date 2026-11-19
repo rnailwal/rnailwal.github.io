@@ -122,9 +122,4 @@ With A. Anand and S. Chavan. <span class="journal">J. Operator Theory</span> **9
     <img src="images/withRaulAljazIgor.jpg" alt="With Raúl, Aljaž, and Igor" loading="lazy">
     <figcaption>With Raúl, Aljaž, and Igor</figcaption>
   </figure>
-
-    <figure>
-    <img src="images/IMG20240701195313.jpg" alt="With Sameer and his group" loading="lazy">
-    <figcaption>With Sameer and his group</figcaption>
-  </figure>
 </div>
