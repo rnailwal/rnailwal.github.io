@@ -110,7 +110,7 @@ With A. Anand and S. Chavan. <span class="journal">J. Operator Theory</span> **9
 
 - [Mathematical Adventures](https://www.youtube.com/@mathematicaladventures/featured) — YouTube channel
 
-  ## Photos
+## Photos
 
 <div class="photo-gallery">
   <figure>
