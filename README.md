@@ -109,3 +109,17 @@ With A. Anand and S. Chavan. <span class="journal">J. Operator Theory</span> **9
 - [Lie algebras](https://www.youtube.com/playlist?list=PLVMgvCDIRy1zJ6iJHLC_lWgIwY4AhviZ-) — lecture playlist
 
 - [Mathematical Adventures](https://www.youtube.com/@mathematicaladventures/featured) — YouTube channel
+
+  ## Photos
+
+<div class="photo-gallery">
+  <figure>
+    <img src="images/withAljaz.jpg" alt="With Aljaž" loading="lazy">
+    <figcaption>With Aljaž</figcaption>
+  </figure>
+
+  <figure>
+    <img src="images/withRaulAljazIgor.jpg" alt="With Raúl, Aljaž, and Igor" loading="lazy">
+    <figcaption>With Raúl, Aljaž, and Igor</figcaption>
+  </figure>
+</div>
