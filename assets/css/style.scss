@@ -134,3 +134,33 @@ section li {
 #panel-publications li > p:first-child > strong:first-child {
   font-weight: 400;
 }
+.photo-gallery {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 24px;
+}
+
+.photo-gallery figure {
+  margin: 0;
+  min-width: 0;
+}
+
+.photo-gallery img {
+  display: block;
+  width: 100%;
+  height: auto;
+  border-radius: 8px;
+}
+
+.photo-gallery figcaption {
+  margin-top: 8px;
+  font-size: 14px;
+  color: #555;
+  text-align: center;
+}
+
+@media (max-width: 480px) {
+  .photo-gallery {
+    grid-template-columns: 1fr;
+  }
+}
