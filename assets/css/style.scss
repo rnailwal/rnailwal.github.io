@@ -164,3 +164,15 @@ section li {
     grid-template-columns: 1fr;
   }
 }
+/* Warm paper background */
+body {
+  background-color: #f5efdf;
+  background-image:
+    linear-gradient(
+      rgba(255, 252, 245, 0.65),
+      rgba(255, 252, 245, 0.65)
+    ),
+    url("/images/brown-paper-texture-background.jpg");
+  background-repeat: repeat;
+  background-size: auto, 1200px auto;
+}
