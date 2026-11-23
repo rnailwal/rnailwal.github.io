@@ -1,6 +1,7 @@
 ## Publications
 
-1. **Invariant subspaces and the C₀₀-property of 3-Brownian shifts** [PDF](Papers/B-3-SHIFT.pdf) accepted in <span class="journal">Results Math.</span>  
+1. **Invariant subspaces and the C₀₀-property of 3-Brownian shifts** [PDF](Papers/B-3-SHIFT.pdf)
+  accepted in <span class="journal">Results Math.</span>  
 
 2. **Cyclic polynomials in Dirichlet-type spaces of the unit bidisk**   [PDF](<Papers/Cyclic_polynomials(1).pdf>) · [Journal](https://link.springer.com/article/10.1007/s13324-026-01233-3)  
 With A. Zalar. <span class="journal">Anal. Math. Phys.</span> **16**, Article 87 (2026).  
