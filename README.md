@@ -37,8 +37,8 @@ With A. Anand and S. Chavan. <span class="journal">J. Operator Theory</span> **9
    With A. Zalar and I. Zobovič.  [PDF](Papers/Extension_property.pdf)
 
 4. *A multivariable class of completely monotonic functions*  [PDF](Papers/A_multivariable_class_of__completely_monotonic_functions.pdf)
-5. *Cyclic polynomials in Dirichlet-type spaces of the unit bidisk*   [PDF](<>)
-With A. Zalar.
+5. *Cyclic polynomials in mixed-weighted Dirichlet-type spaces*   [PDF](<Papers/Cyclicity_in_Mix_weight.pdf>)                       
+   With A. Zalar.
 
 ## Talks
 
