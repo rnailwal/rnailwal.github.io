@@ -4,7 +4,7 @@
   accepted in <span class="journal">Results Math.</span>  
 
 2. **Cyclic polynomials in Dirichlet-type spaces of the unit bidisk**   [PDF](<Papers/Cyclic_polynomials(1).pdf>) · [Journal](https://link.springer.com/article/10.1007/s13324-026-01233-3)  
-With A. Zalar. <span class="journal">Anal. Math. Phys.</span> **16**, Article 87 (2026).  
+With [A. Zalar](https://zalara.github.io/). <span class="journal">Anal. Math. Phys.</span> **16**, Article 87 (2026).  
    
 
 3. **Rank one perturbations of 2-isometries**  [arXiv](https://arxiv.org/abs/2508.09701) · [Journal](https://link.springer.com/article/10.1007/s11785-025-01898-x)  
@@ -15,7 +15,7 @@ With M. Bhattacharjee. <span class="journal">J. Approx. Theory</span> **313**, A
   
 
 5. **The truncated univariate rational moment problem**   [arXiv](https://arxiv.org/abs/2411.11480) · [Journal](https://www.sciencedirect.com/science/article/pii/S0024379524004816)  
-With A. Zalar. <span class="journal">Linear Algebra Appl.</span> **708**, 280–301 (2025).  
+With [A. Zalar](https://zalara.github.io/). <span class="journal">Linear Algebra Appl.</span> **708**, 280–301 (2025).  
   
 
 6. **A complete solution to the Cauchy dual subnormality problem for torally expansive toral 3-isometric weighted 2-shifts**  [arXiv](https://arxiv.org/abs/2310.04785) · [Journal](https://nyjm.albany.edu/j/2024/30-63v.pdf)    
