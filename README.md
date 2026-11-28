@@ -11,7 +11,7 @@ With [A. Zalar](https://zalara.github.io/). <span class="journal">Anal. Math. Ph
 <span class="journal">Complex Anal. Oper. Theory</span> **20**, Article 43 (2026).  
    
 4. **A characterization of completely alternating functions**   [arXiv](https://arxiv.org/abs/2406.13291) · [Journal](https://www.sciencedirect.com/science/article/abs/pii/S0021904525000887)  
-With M. Bhattacharjee. <span class="journal">J. Approx. Theory</span> **313**, Article 106230 (2026).  
+With [M. Bhattacharjee](https://www.bits-pilani.ac.in/goa/monojit-bhattacharjee/). <span class="journal">J. Approx. Theory</span> **313**, Article 106230 (2026).  
   
 
 5. **The truncated univariate rational moment problem**   [arXiv](https://arxiv.org/abs/2411.11480) · [Journal](https://www.sciencedirect.com/science/article/pii/S0024379524004816)  
@@ -23,7 +23,7 @@ With [A. Zalar](https://zalara.github.io/). <span class="journal">Linear Algebra
   
 
 7. **Joint complete monotonicity of rational functions in two variables and toral m-isometric pairs**    [arXiv](https://arxiv.org/abs/2207.13903) · [Journal](https://jot.theta.ro/jot/archive/2024-092-001/2024-092-001-005.html)   
-With A. Anand and S. Chavan. <span class="journal">J. Operator Theory</span> **92**(1) (2024).  
+With [A. Anand](https://home.iitk.ac.in/~akasha/) and [S. Chavan](https://home.iitk.ac.in/~chavan/). <span class="journal">J. Operator Theory</span> **92**(1) (2024).  
  
 
 ## Preprints
